@@ -1,3 +1,3 @@
 # 明解Python阅读笔记
 
-3000ye
+![明解Python](明解Python.jpg)
